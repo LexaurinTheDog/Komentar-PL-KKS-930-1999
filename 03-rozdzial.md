@@ -4,13 +4,13 @@
 
 **Brzmienie przepisu:**
 
-> Art. 80cb. § 1. Kto, działając w imieniu lub interesie raportującego operatora platformy, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku:
+> Art. 80cb.⁽¹³⁾ § 1. Kto, działając w imieniu lub interesie raportującego operatora platformy, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku:
 >
 > 1) stosowania procedur należytej staranności, w tym gromadzenia wymaganej dokumentacji, 2) przekazania Szefowi Krajowej Administracji Skarbowej informacji o sprzedawcach, 3) jednorazowej rejestracji w Rzeczypospolitej Polskiej w przypadku braku rejestracji w innym wybranym państwie członkowskim, 4) usunięcia w terminie nieprawidłowości wskazanych w wyniku kontroli, o którym mowa w art. 75zb ust. 4 tej ustawy, podlega karze grzywny do 180 stawek dziennych.
 >
 > § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 4 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879), która weszła w życie z dniem 1 lipca 2024 r.
+*Odnośnik w tekście jednolitym* 13) Dodany przez art. 4 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 879), która weszła w życie z dniem 1 lipca 2024 r.
 
 Przepis typizuje odpowiedzialność karną skarbową „raportującego operatora platformy” w rozumieniu ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, implementującej unijne rozwiązania dotyczące raportowania dochodów uzyskiwanych za pośrednictwem platform cyfrowych. Krąg sprawców obejmuje osoby działające w imieniu lub interesie operatora platformy, a więc zarówno jego organy, jak i pełnomocników czy pracowników realizujących te obowiązki – jest to przestępstwo indywidualne właściwe. § 1 wymienia cztery odrębne postacie zachowania: niedopełnienie procedur należytej staranności, w tym gromadzenia wymaganej dokumentacji; niedopełnienie obowiązku przekazania Szefowi Krajowej Administracji Skarbowej informacji o sprzedawcach; brak jednorazowej rejestracji w Polsce w razie niezarejestrowania się w innym państwie członkowskim; oraz nieusunięcie w terminie nieprawidłowości stwierdzonych w toku kontroli, o której mowa w art. 75zb ust. 4 tej ustawy. Każde z tych zachowań stanowi samodzielny czyn zabroniony zagrożony grzywną do 180 stawek dziennych. § 2 przewiduje uprzywilejowany typ w wypadku mniejszej wagi, kwalifikowany jako wykroczenie skarbowe, co pozwala różnicować reakcję karną zależnie od stopnia społecznej szkodliwości konkretnego naruszenia. Jak wskazuje przypis urzędowy, przepis został dodany nowelizacją z 23 maja 2024 r. i obowiązuje od 1 lipca 2024 r., domykając karnoskarbowo administracyjny reżim raportowania platform cyfrowych (tzw. DAC7).
 
@@ -76,11 +76,11 @@ Przepis chroni prawidłowość zawiadomień składanych w związku z procedurą 
 
 **Brzmienie przepisu:**
 
-> Art. 80h. § 1. Kto wbrew obowiązkowi nie składa w terminie właściwemu organowi podatkowemu zawiadomienia o danych, o którym mowa w art. 133 ust. 7 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych, podlega karze grzywny do 180 stawek dziennych.
+> Art. 80h.⁽¹⁴⁾ § 1. Kto wbrew obowiązkowi nie składa w terminie właściwemu organowi podatkowemu zawiadomienia o danych, o którym mowa w art. 133 ust. 7 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych, podlega karze grzywny do 180 stawek dziennych.
 >
 > § 2. W wypadku mniejszej wagi sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 142 pkt 3 ustawy, o której mowa w odnośniku 12.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 142 pkt 3 ustawy, o której mowa w odnośniku 12.
 
 Przepis penalizuje niezłożenie w terminie właściwemu organowi podatkowemu zawiadomienia o danych, o którym mowa w art. 133 ust. 7 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych – a więc ustawy implementującej globalny podatek wyrównawczy (filar II, GloBE/Pillar Two) w polskim porządku prawnym. Adresatem obowiązku, a zarazem potencjalnym sprawcą, jest jednostka składowa grupy podlegająca temu reżimowi, zobowiązana do zgłoszenia właściwemu organowi danych identyfikujących ją dla celów rozliczenia podatku wyrównawczego. Czyn z § 1 zagrożony jest grzywną do 180 stawek dziennych. § 2 przewiduje typ uprzywilejowany w wypadku mniejszej wagi, kwalifikowany jako wykroczenie skarbowe. Przypis urzędowy wskazuje, że przepis dodano art. 142 pkt 3 ustawy wprowadzającej opodatkowanie wyrównawcze, co osadza go w najnowszej warstwie nowelizacyjnej kodeksu, odpowiadającej wdrożeniu unijnej dyrektywy o minimalnym opodatkowaniu grup wielonarodowych.
 
@@ -88,11 +88,11 @@ Przepis penalizuje niezłożenie w terminie właściwemu organowi podatkowemu za
 
 **Brzmienie przepisu:**
 
-> Art. 80i. § 1. Podatnik, który, składając organowi podatkowemu uprzednie powiadomienie, podaje nieprawdę lub zataja prawdę albo nie dopełnia obowiązku zawiadomienia o zmianie objętych nim danych, podlega karze grzywny do 240 stawek dziennych.
+> Art. 80i.⁽¹⁵⁾ § 1. Podatnik, który, składając organowi podatkowemu uprzednie powiadomienie, podaje nieprawdę lub zataja prawdę albo nie dopełnia obowiązku zawiadomienia o zmianie objętych nim danych, podlega karze grzywny do 240 stawek dziennych.
 >
 > § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 4; oznaczenie art. 80i nadane przez art. 7 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179); wszedł w życie z dniem 13 lutego 2025 r.
+*Odnośnik w tekście jednolitym* 15) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 4; oznaczenie art. 80i nadane przez art. 7 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179); wszedł w życie z dniem 13 lutego 2025 r.
 
 Przepis penalizuje nierzetelność w tzw. uprzednim powiadomieniu składanym organowi podatkowemu przez podatnika – instytucji o charakterze informacyjno-rejestracyjnym, poprzedzającej określone zdarzenia lub czynności podlegające szczególnemu nadzorowi podatkowemu. Czynność sprawcza obejmuje dwie postaci: podanie nieprawdy lub zatajenie prawdy w treści powiadomienia oraz niedopełnienie obowiązku zawiadomienia o zmianie danych objętych powiadomieniem – w obu wypadkach chodzi o naruszenie zasady rzetelności informacji przekazywanych organowi na etapie poprzedzającym właściwe postępowanie podatkowe. Czyn zagrożony jest grzywną do 240 stawek dziennych, a § 2 przewiduje, tak jak w analogicznych przepisach tego rozdziału, uprzywilejowany typ wykroczeniowy w wypadku mniejszej wagi. Z przypisu urzędowego wynika, że przepis został dodany nowelizacją wskazaną w odnośniku 4, a oznaczenie „art. 80i” nadano mu dopiero ustawą z 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw, która weszła w życie 13 lutego 2025 r. – co tłumaczy niestandardowe umiejscowienie przepisu w numeracji kodeksu, pierwotnie zapewne oznaczonego inną jednostką redakcyjną.
 
@@ -124,13 +124,13 @@ Przepis chroni prawidłowość gospodarowania środkami publicznymi przekazywany
 
 **Brzmienie przepisu:**
 
-> Art. 83. § 1. Kto osobie uprawnionej do przeprowadzenia czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej, audytu lub czynności audytowych, dokonania nabycia sprawdzającego lub kontroli, o której mowa w art. 49aab ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności kto wbrew żądaniu tej osoby nie okazuje księgi lub innego dokumentu dotyczącego prowadzonej działalności gospodarczej lub księgę lub dokumenty te niszczy, uszkadza, czyni bezużytecznymi, ukrywa lub usuwa, podlega karze grzywny do 720 stawek dziennych.
+> Art. 83. § 1.⁽¹⁶⁾ Kto osobie uprawnionej do przeprowadzenia czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej, audytu lub czynności audytowych, dokonania nabycia sprawdzającego lub kontroli, o której mowa w art. 49aab ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności kto wbrew żądaniu tej osoby nie okazuje księgi lub innego dokumentu dotyczącego prowadzonej działalności gospodarczej lub księgę lub dokumenty te niszczy, uszkadza, czyni bezużytecznymi, ukrywa lub usuwa, podlega karze grzywny do 720 stawek dziennych.
 >
 > § 1a. Kto osobie uprawnionej do dokonania nabycia sprawdzającego odmawia przyjęcia zwracanego towaru nabytego w toku nabycia sprawdzającego, przyjęcia paragonu fiskalnego dokumentującego sprzedaż zwracanego towaru lub usługi niewykonanej w toku nabycia sprawdzającego wydanego tej osobie w toku nabycia sprawdzającego, lub zwrotu zapłaty otrzymanej za zwracany towar nabyty w toku nabycia sprawdzającego lub usługę niewykonaną w toku nabycia sprawdzającego, podlega karze grzywny za wykroczenie skarbowe.
 >
 > § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 4 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i usług, ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 222), która weszła w życie z dniem 1 kwietnia 2025 r.
+*Odnośnik w tekście jednolitym* 16) W brzmieniu ustalonym przez art. 4 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i usług, ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 222), która weszła w życie z dniem 1 kwietnia 2025 r.
 
 Przepis chroni prawidłowy przebieg czynności kontrolnych i sprawdzających prowadzonych przez uprawnione organy Krajowej Administracji Skarbowej. § 1 penalizuje udaremnianie lub utrudnianie wykonania czynności służbowej osobie uprawnionej do przeprowadzenia czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej, audytu lub czynności audytowych, dokonania nabycia sprawdzającego lub kontroli, o której mowa w art. 49aab ust. 1 ustawy o Krajowej Administracji Skarbowej; ustawodawca przykładowo wymienia najczęstszą postać tego czynu – nieokazanie księgi lub innego dokumentu dotyczącego działalności gospodarczej albo jego zniszczenie, uszkodzenie, uczynienie bezużytecznym, ukrycie lub usunięcie. Czyn zagrożony jest grzywną do 720 stawek dziennych. § 1a typizuje odrębnie zachowania utrudniające tzw. nabycie sprawdzające (kontrolowany zakup dokonywany przez funkcjonariuszy w celu weryfikacji obowiązku ewidencjonowania sprzedaży) – odmowę przyjęcia zwracanego towaru, odmowę przyjęcia paragonu fiskalnego lub odmowę zwrotu zapłaty; z uwagi na mniejszą wagę tych zachowań kwalifikowane są one od razu jako wykroczenie skarbowe. § 2 przewiduje uprzywilejowany typ wykroczeniowy dla czynu z § 1 w wypadku mniejszej wagi. Zgodnie z przypisem urzędowym przepis w obecnym brzmieniu pochodzi z nowelizacji z 24 stycznia 2025 r. (Dz. U. poz. 222), obowiązującej od 1 kwietnia 2025 r., która rozszerzyła zakres ochrony o instytucję nabycia sprawdzającego.
 
@@ -446,11 +446,11 @@ Przepis chroni prawidłowy przebieg kontroli prowadzonej na podstawie przepisów
 
 **Brzmienie przepisu:**
 
-> Art. 106f. § 1. Kto wbrew obowiązkowi nie zgłasza organom celnym środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej albo w zgłoszeniu tym podaje nieprawdę, podlega karze grzywny do 720 stawek dziennych.
+> Art. 106f.⁽¹⁷⁾ § 1. Kto wbrew obowiązkowi nie zgłasza organom celnym środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej albo w zgłoszeniu tym podaje nieprawdę, podlega karze grzywny do 720 stawek dziennych.
 >
 > § 2. Jeżeli kwota niezgłoszonych środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 2 pkt 3 ustawy, o której mowa w odnośniku 2.
+*Odnośnik w tekście jednolitym* 17) W brzmieniu ustalonym przez art. 2 pkt 3 ustawy, o której mowa w odnośniku 2.
 
 Przepis wdraża unijny obowiązek zgłaszania środków pieniężnych przekraczających granicę Unii Europejskiej, mający na celu przeciwdziałanie praniu pieniędzy i finansowaniu terroryzmu. § 1 penalizuje niezgłoszenie organom celnym środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej wbrew ciążącemu obowiązkowi, a także podanie nieprawdy w takim zgłoszeniu; czyn zagrożony jest grzywną do 720 stawek dziennych. § 2 przewiduje typ wykroczeniowy, gdy kwota niezgłoszonych środków pieniężnych jest małej wartości. Zgodnie z przypisem urzędowym przepis w obecnym brzmieniu pochodzi z nowelizacji wskazanej w odnośniku 2, która dostosowała jego treść do aktualnych unijnych regulacji kontroli środków pieniężnych wwożonych do lub wywożonych z Unii.
 
@@ -466,9 +466,9 @@ Przepis został uchylony. Regulował on odrębny aspekt odpowiedzialności zwią
 
 **Brzmienie przepisu:**
 
-> Art. 106h. Kto wbrew obowiązkowi nie przedstawia organom celnym, na ich żądanie, środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej, podlega karze grzywny za wykroczenie skarbowe.
+> Art. 106h.⁽¹⁸⁾ Kto wbrew obowiązkowi nie przedstawia organom celnym, na ich żądanie, środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej, podlega karze grzywny za wykroczenie skarbowe.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 2 pkt 4 ustawy, o której mowa w odnośniku 2.
+*Odnośnik w tekście jednolitym* 18) W brzmieniu ustalonym przez art. 2 pkt 4 ustawy, o której mowa w odnośniku 2.
 
 Przepis uzupełnia ochronę wprowadzoną w art. 106f, penalizując nieprzedstawienie organom celnym, na ich żądanie, środków pieniężnych wwożonych do Unii Europejskiej lub wywożonych z Unii Europejskiej wbrew ciążącemu obowiązkowi – w odróżnieniu od art. 106f, który dotyczy obowiązku zgłoszenia (deklaracji) tych środków, art. 106h chroni możliwość ich fizycznej weryfikacji przez organ celny na jego żądanie. Czyn kwalifikowany jest jako wykroczenie skarbowe. Zgodnie z przypisem urzędowym przepis w obecnym brzmieniu pochodzi z tej samej nowelizacji wskazanej w odnośniku 2, która ujednoliciła regulację kontroli środków pieniężnych z aktualnymi przepisami unijnymi.
 
